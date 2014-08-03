@@ -1,0 +1,10 @@
+syntax: regexp
+^hyflow\.jar$
+^classes/
+^build/
+^logs/
+^bin/
+^scripts/logs/
+
+syntax: glob
+*.class
